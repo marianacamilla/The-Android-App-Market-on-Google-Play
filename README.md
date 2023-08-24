@@ -64,8 +64,8 @@ Gráfico com reviews de usuários em apps pagos e apps gratuitos.
 Mobile apps can be extremely profitable and often easy to create. They are everywhere. Keeping this in mind, in this notebook, we conducted a market analysis of Android apps, comparing over ten thousand apps on Google Play in different categories.
 
 note:
-app.csv: contains all application details.
-user_reviews.csv: contains 100 reviews of each app.
+- app.csv: contains all application details.
+- user_reviews.csv: contains 100 reviews of each app.
 
 ## Steps
 ### Task 1: Google Play Store apps and reviews
