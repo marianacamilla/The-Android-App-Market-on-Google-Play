@@ -4,7 +4,7 @@
 
 Aplicativos móveis podem ser extremamente lucrativos e muitas vezes simples de criar. Eles estão por toda a parte. Tendo isso em mente, neste notebook fizemos uma análise de mercado de aplicativos Android, comparando mais de dez mil aplicativos na Google Play em diferentes categorias. 
 
-note:
+notas para a pasta dataset:
 - app.csv: contém todos os detalhes das aplicações.
 - user_reviews.csv: contém 100 reviews de cada app.
 
